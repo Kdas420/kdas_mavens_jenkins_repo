@@ -8,6 +8,6 @@ public class App
 {
     public static void main( String[] args )
     {
-        System.out.println( "Hello World!" );
+        System.out.println( "CI Test: Hello Continuous Integration Trigger Test!" );
     }
 }
